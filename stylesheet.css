@@ -28,9 +28,11 @@ td {
     border-bottom: 1px solid #000000;
     border: 5px solid #99999f;
 }
-img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
+.centeredImage {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -150px;
 }
 }
