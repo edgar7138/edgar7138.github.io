@@ -28,11 +28,12 @@ td {
     border-bottom: 1px solid #000000;
     border: 5px solid #99999f;
 }
-.centeredImage {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -150px;
+img {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
 }
 }
