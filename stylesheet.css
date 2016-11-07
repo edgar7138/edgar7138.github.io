@@ -7,7 +7,7 @@ h1 {
     font-family: Impact;
     font-weight: bold;
     font-size: 50px;
-    color: #8A2121;
+    color: #ffffff;
     text-align: center;
 }
 a:hover {
@@ -24,7 +24,11 @@ table {
     border: 8px solid blue;
 }
 td {
-    color: #FFFFFF;
+    color: #ffffff;
     border-bottom: 1px solid #000000;
     border: 5px solid #99999f;
+}
+img {
+    display: block;
+    margin: auto;
 }
